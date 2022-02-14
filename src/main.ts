@@ -1,4 +1,4 @@
-import { readFileSync } from 'node:fs';
+import { readFileSync } from 'fs';
 import { parse } from 'toml';
 import { BASE_CONFIG, validateOptions } from './util';
 import type { ConfigOptions } from './typings';
