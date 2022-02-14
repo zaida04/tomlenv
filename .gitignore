@@ -10,7 +10,6 @@ coverage/
 .idea/
 *.env
 
-package-lock.json
 yarn.lock
 
 *.env
