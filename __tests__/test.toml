@@ -1,0 +1,5 @@
+[env.prod]
+test = "PRODUCTION"
+
+[env.dev]
+test = "DEVELOPMENT"

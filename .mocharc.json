@@ -1,0 +1,6 @@
+{
+    "$schema": "https://json.schemastore.org/mocharc.json",
+    "extension": ["ts"],
+    "timeout": 5000,
+    "spec": "./__tests__/**.test.ts"
+}
